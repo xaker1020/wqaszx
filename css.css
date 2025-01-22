@@ -1,0 +1,10 @@
+*{margin: 0;
+padding: 0;
+box-sizing: border-box;}
+header{display: flex; justify-content: space-around; margin-top: 50px;  }
+h1{margin-top: 50px; font-size: 45px; text-align: center;}
+.ota{display: flex; justify-content: center; align-items: center; justify-content: space-around;}
+.qizil{background-color: red; 
+    width: 350px; height: 350px; text-align: center;}
+    .Q{ text-align: center; color: white; font-size: 70px; text-align: center; margin-top: 70px;}
+   footer{display: flex; justify-content: space-around;margin-top: 100px; } 
